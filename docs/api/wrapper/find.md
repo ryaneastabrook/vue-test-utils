@@ -1,7 +1,7 @@
 ## find
 
 ::: warning Deprecation warning
-Using `find` to search for a Component is deprecated and will be removed. Use [`findComponent`](./findComponent.md) instead.
+Using `find` to search for a Component is deprecated and will be removed. Use [`findComponent`](./findComponent.md) instead. Using `find` to search for DOM nodes is still acceptable.
 :::
 
 Returns `Wrapper` of first DOM node or Vue component matching selector.
